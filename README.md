@@ -1,4 +1,8 @@
+<div align="center">
+
 # Design-Patterns
+
+</div>
 
 ### As per the design pattern reference book Design Patterns - Elements of Reusable Object-Oriented Software , there are 23 design patterns. These patterns can be classified in three categories: Creational, Structural and behavioral patterns.
 
